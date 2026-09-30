@@ -1,0 +1,1 @@
+Agrega aquí capturas del montaje, terminal Python, modelo URDF y el enlace de tu video.
